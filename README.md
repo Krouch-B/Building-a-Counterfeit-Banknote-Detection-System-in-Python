@@ -1,16 +1,40 @@
-# Detect counterfeit banknotes with Python
-![](readme_p10.jpg)
+# Project Title: Detect Counterfeit Banknotes with Python
 
-# Scenario
+![Counterfeit Banknotes](image_url)
 
-You are a Data Analyst consultant in a data-focused company. Your company has secured a service contract with the National Counterfeit Money Fighting Organization (ONCFM).
+## Project Overview
 
-The objective of this institution is to implement methods for identifying counterfeit euro banknotes. They have reached out to you, a data specialist, to develop a model that can automatically identify genuine and counterfeit banknotes using specific dimensions and elements of the banknotes.
+You are a Data Analyst consultant working for a data-focused company. Your company has been assigned a contract with the National Organization for Combating Counterfeiting Money (ONCFM). The ONCFM aims to develop methods for identifying counterfeit Euro banknotes. They have enlisted your expertise in data analysis to build a predictive model that can automatically distinguish genuine from counterfeit banknotes using specific dimensions and characteristics of the banknotes.
 
-Here are the specifications provided by ONCFM, along with the dataset.
+In this project, you will work directly at the ONCFM premises under the supervision of Marie, the project lead for data analysis. Marie will give you autonomy in your work and expects you to present the results at the end of the project. She is interested in understanding your data preprocessing, exploratory analysis, various approaches explored for algorithm construction, and the final model chosen.
 
-The client wants you to work directly from their premises, under the supervision of Marie, the project manager for data analysis at ONCFM. She will give you a significant level of autonomy during your assignment but requests that you present the results once the mission is complete. She would like to see the data processing and analysis you conducted, the various approaches explored for building the algorithm, and the final model selected.
+After reviewing the detailed project requirements, you prepare to start your assignment at the ONCFM. However, you find a post-it note left on your desk by one of your colleagues:
 
-After carefully reading the specifications, you prepare to go to ONCFM to assume your new responsibilities. However, you notice a post-it note on the corner of your desk left by one of your colleagues:
+"During my previous assignment, I dealt with a dataset that had many missing values. It was quite a challenge! However, I achieved excellent results by using linear regression to fill in the missing values. This might come in handy for your next mission, who knows?"
 
-"In my previous assignment, I encountered a dataset with many missing values, a real challenge! But I achieved excellent results by using linear regression to fill in those gaps. Maybe it will be useful for your next mission, who knows?" You take the post-it note with you and head to ONCFM's offices to begin your assignment.
+You pack the post-it note with your belongings and head towards the ONCFM offices to commence your mission.
+
+## Deliverables
+
+Complete code in R or Python: The developed code encompasses all the necessary processing and testing steps. It is organized in a clear, commented, and easily understandable manner.
+
+Final application: An application has been created to implement the developed model for counterfeit banknote detection. Users can utilize this application by providing input data to obtain accurate predictions.
+
+## Presentation
+
+The project was presented and validated by a jury following the steps below:
+
+Deliverables presentation: A presentation was made to showcase the overall project, including preprocessing steps, different algorithm exploration approaches, and the final selected model. The presentation lasted approximately 20 minutes (+/- 5 minutes).
+
+Live algorithm testing: A live demonstration was conducted using a provided dataset similar to "billet_production.csv". The algorithm was successfully tested on this dataset for approximately 5 minutes.
+
+Discussion: A question-and-answer session took place to discuss the choices and approaches used in the project. This discussion lasted approximately 5 minutes.
+
+Debriefing: To conclude the presentation, the evaluator provided feedback and a debriefing on the project for approximately 5 minutes.
+
+## Skills Assessed
+- Performing predictive analysis
+- Conducting logistic regression
+- Performing linear regression
+- Performing automatic classifications for data partitioning
+
