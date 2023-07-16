@@ -1,21 +1,27 @@
 # Project Title: Detect Counterfeit Banknotes with Python
 
 ## Project Overview
-You are a Data Analyst consultant working on a project for the National Organization for Combating Counterfeiting Money (ONCFM). The goal is to develop a predictive model using Python to identify counterfeit Euro banknotes.
+For this project, I worked as a Data Analyst consultant on a mission for the National Organization for Combating Counterfeiting Money (ONCFM). Our objective was to develop a Python-based predictive model to detect counterfeit Euro banknotes.
 
 ## Deliverables
-- Complete code in Python that includes all the necessary processing and testing steps.
-- Final application: An implemented model for counterfeit banknote detection.
+- Complete Python code with comprehensive processing and testing steps.
+- Final application: Implementation of the developed model for counterfeit banknote detection.
 
 ## Presentation
-The project was presented to a jury in the following steps:
-1. Deliverables presentation: Showcasing the project, including preprocessing, algorithm exploration, and the final model. Presentation duration: approximately 20 minutes (+/- 5 minutes).
-2. Live algorithm testing: A demonstration using a provided dataset similar to "billet_production.csv". Duration: approximately 5 minutes.
-3. Discussion: Q&A session to discuss the project's choices and approaches. Duration: approximately 5 minutes.
-4. Debriefing: Feedback and debriefing on the project. Duration: approximately 5 minutes.
+The project was presented to a jury following these steps:
+
+1. Deliverables Presentation: The project was showcased, highlighting the preprocessing steps, algorithm exploration, and the final model. The presentation duration was approximately 20 minutes (+/- 5 minutes).
+
+2. Live Algorithm Testing: A demonstration was conducted using a provided dataset similar to "billet_production.csv". The algorithm's performance was showcased in a live testing session, which lasted approximately 5 minutes.
+
+3. Discussion: A Q&A session was held to discuss the project's choices and approaches. The jury had the opportunity to ask questions and engage in a discussion related to the project. The discussion duration was approximately 5 minutes.
+
+4. Debriefing: Feedback and debriefing were provided to assess the project's outcomes and discuss any further insights. The debriefing session lasted approximately 5 minutes.
 
 ## Skills Assessed
 - Predictive analysis
 - Logistic regression
 - Linear regression
 - Automatic classifications for data partitioning
+
+
