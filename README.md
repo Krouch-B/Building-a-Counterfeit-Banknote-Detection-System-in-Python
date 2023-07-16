@@ -1,7 +1,7 @@
-# Scenario
+# Detect counterfeit banknotes with Python
 ![](readme_p10.jpg)
 
-
+# Scenario
 
 You are a Data Analyst consultant in a data-focused company. Your company has secured a service contract with the National Counterfeit Money Fighting Organization (ONCFM).
 
