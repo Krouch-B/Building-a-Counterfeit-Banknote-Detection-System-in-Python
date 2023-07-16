@@ -1,5 +1,5 @@
 # Scenario
-![Texte alternatif de l'image](readme P10.JPG)
+![Texte alternatif de l'image](readme_p10.jpg)
 
 
 
