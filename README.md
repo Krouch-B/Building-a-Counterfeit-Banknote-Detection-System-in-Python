@@ -1,22 +1,13 @@
-# Détectez des faux billets avec R ou Python
+# Scenario
 
+You are a Data Analyst consultant in a data-focused company. Your company has secured a service contract with the National Counterfeit Money Fighting Organization (ONCFM).
 
-Vous êtes consultant Data Analyst dans une entreprise spécialisée dans la data. Votre entreprise a décroché une prestation en régie au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM).
+The objective of this institution is to implement methods for identifying counterfeit euro banknotes. They have reached out to you, a data specialist, to develop a model that can automatically identify genuine and counterfeit banknotes using specific dimensions and elements of the banknotes.
 
- 
+Here are the specifications provided by ONCFM, along with the dataset.
 
+The client wants you to work directly from their premises, under the supervision of Marie, the project manager for data analysis at ONCFM. She will give you a significant level of autonomy during your assignment but requests that you present the results once the mission is complete. She would like to see the data processing and analysis you conducted, the various approaches explored for building the algorithm, and the final model selected.
 
- 
+After carefully reading the specifications, you prepare to go to ONCFM to assume your new responsibilities. However, you notice a post-it note on the corner of your desk left by one of your colleagues:
 
-Cette institution a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros. Ils font donc appel à vous, spécialiste de la data, pour mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets. Et ce à partir simplement de certaines dimensions du billet et des éléments qui le composent.
-
-Voici le cahier des charges de l’ONCFM, ainsi que le jeu de données.
-
-Le client souhaite que vous travailliez directement depuis ses locaux sous la responsabilité de Marie, responsable du projet d’analyse de données à l’ONCFM. Elle vous laissera une grande autonomie pendant votre mission, et vous demande simplement que vous lui présentiez vos résultats une fois la mission terminée. Elle souhaite voir quels sont les traitements et analyses que vous avez réalisés en amont, les différentes pistes explorées pour la construction de l’algorithme, ainsi que le modèle final retenu.
-
-Après avoir lu en détail le cahier des charges, vous vous préparez à vous rendre à l’ONCFM pour prendre vos nouvelles fonctions. Vous notez tout de même un post-it qui se trouve sur le coin de votre bureau, laissé par un de vos collègues :
-
-Lors de ma précédente mission, je me suis retrouvé avec un jeu de données comportant plein de valeurs manquantes, une vraie galère ! Mais j’ai eu de très bons résultats en utilisant une régression linéaire pour combler ces dernières. Ça te servira peut-être pour ta prochaine mission, qui sait ?
-Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent vers les bureaux de l’ONCFM pour commencer votre mission.
-
- 
+"In my previous assignment, I encountered a dataset with many missing values, a real challenge! But I achieved excellent results by using linear regression to fill in those gaps. Maybe it will be useful for your next mission, who knows?" You take the post-it note with you and head to ONCFM's offices to begin your assignment.
