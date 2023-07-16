@@ -1,4 +1,7 @@
 # Scenario
+![Texte alternatif de l'image](readme P10.JPG)
+
+
 
 You are a Data Analyst consultant in a data-focused company. Your company has secured a service contract with the National Counterfeit Money Fighting Organization (ONCFM).
 
